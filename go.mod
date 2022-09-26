@@ -22,7 +22,7 @@ require (
 	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
 	github.com/cloudflare/cloudflare-go v0.50.0
-	github.com/digitalocean/godo v1.84.1
+	github.com/digitalocean/godo v1.86.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go v1.0.0
 	github.com/exoscale/egoscale v0.90.2
@@ -53,7 +53,7 @@ require (
 	github.com/urfave/cli/v2 v2.16.3
 	github.com/vultr/govultr v1.1.1
 	github.com/xddxdd/ottoext v0.0.0-20210101073831-439879ee6281
-	golang.org/x/net v0.0.0-20220920203100-d0c6ba3f52d9
+	golang.org/x/net v0.0.0-20220921155015-db77216a4ee9
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1
 	google.golang.org/api v0.96.0
 	gopkg.in/ns1/ns1-go.v2 v2.6.5
