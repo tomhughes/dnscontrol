@@ -1,7 +1,6 @@
 module github.com/StackExchange/dnscontrol/v4
 
 go 1.23.0
-
 retract v4.8.0
 
 require google.golang.org/protobuf v1.35.2 // indirect
@@ -49,7 +48,7 @@ require (
 	github.com/softlayer/softlayer-go v1.1.7
 	github.com/stretchr/testify v1.10.0
 	github.com/transip/gotransip/v6 v6.26.0
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.6
 	github.com/xddxdd/ottoext v0.0.0-20221109171055-210517fa4419
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/oauth2 v0.25.0
